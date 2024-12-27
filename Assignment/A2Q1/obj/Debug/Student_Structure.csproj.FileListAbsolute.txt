@@ -1,0 +1,7 @@
+D:\My-gitdata\MS.NET\Assignment\A2Q1\bin\Debug\A2Q1.exe.config
+D:\My-gitdata\MS.NET\Assignment\A2Q1\bin\Debug\A2Q1.exe
+D:\My-gitdata\MS.NET\Assignment\A2Q1\bin\Debug\A2Q1.pdb
+D:\My-gitdata\MS.NET\Assignment\A2Q1\obj\Debug\Student_Structure.csproj.AssemblyReference.cache
+D:\My-gitdata\MS.NET\Assignment\A2Q1\obj\Debug\Student_Structure.csproj.CoreCompileInputs.cache
+D:\My-gitdata\MS.NET\Assignment\A2Q1\obj\Debug\A2Q1.exe
+D:\My-gitdata\MS.NET\Assignment\A2Q1\obj\Debug\A2Q1.pdb

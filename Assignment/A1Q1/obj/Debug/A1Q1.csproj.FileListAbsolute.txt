@@ -1,0 +1,7 @@
+D:\My-gitdata\MS.NET\Assignment\Q1\bin\Debug\Q1.exe.config
+D:\My-gitdata\MS.NET\Assignment\Q1\bin\Debug\Q1.exe
+D:\My-gitdata\MS.NET\Assignment\Q1\bin\Debug\Q1.pdb
+D:\My-gitdata\MS.NET\Assignment\Q1\obj\Debug\A1Q1.csproj.AssemblyReference.cache
+D:\My-gitdata\MS.NET\Assignment\Q1\obj\Debug\A1Q1.csproj.CoreCompileInputs.cache
+D:\My-gitdata\MS.NET\Assignment\Q1\obj\Debug\Q1.exe
+D:\My-gitdata\MS.NET\Assignment\Q1\obj\Debug\Q1.pdb

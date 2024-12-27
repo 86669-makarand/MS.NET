@@ -1,0 +1,7 @@
+D:\My-gitdata\MS.NET\Assignment\A1Q3\bin\Debug\A1Q3.exe.config
+D:\My-gitdata\MS.NET\Assignment\A1Q3\bin\Debug\A1Q3.exe
+D:\My-gitdata\MS.NET\Assignment\A1Q3\bin\Debug\A1Q3.pdb
+D:\My-gitdata\MS.NET\Assignment\A1Q3\obj\Debug\A1Q3.csproj.AssemblyReference.cache
+D:\My-gitdata\MS.NET\Assignment\A1Q3\obj\Debug\A1Q3.csproj.CoreCompileInputs.cache
+D:\My-gitdata\MS.NET\Assignment\A1Q3\obj\Debug\A1Q3.exe
+D:\My-gitdata\MS.NET\Assignment\A1Q3\obj\Debug\A1Q3.pdb

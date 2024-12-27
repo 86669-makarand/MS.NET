@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My-gitdata\\MS.NET\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{178EE98D-A60D-4EE9-AF25-1077AC597EEA}|A2Q1\\A2Q1.csproj|d:\\my-gitdata\\ms.net\\assignment\\a2q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178EE98D-A60D-4EE9-AF25-1077AC597EEA}|A2Q1\\A2Q1.csproj|solutionrelative:a2q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D7B830-6052-445C-BF50-01E6B4A7C71A}|A1Q2\\A1Q2.csproj|d:\\my-gitdata\\ms.net\\assignment\\a1q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D7B830-6052-445C-BF50-01E6B4A7C71A}|A1Q2\\A1Q2.csproj|solutionrelative:a1q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F263D59B-48F7-4C66-AC51-2B3C5823F369}|A1Q3\\A1Q3.csproj|d:\\my-gitdata\\ms.net\\assignment\\a1q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F263D59B-48F7-4C66-AC51-2B3C5823F369}|A1Q3\\A1Q3.csproj|solutionrelative:a1q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB78CFB-D4EE-4632-94A5-A5D5411B76C4}|Q1\\Q1.csproj|d:\\my-gitdata\\ms.net\\assignment\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB78CFB-D4EE-4632-94A5-A5D5411B76C4}|Q1\\Q1.csproj|solutionrelative:q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My-gitdata\\MS.NET\\Assignment\\A2Q1\\Program.cs",
+              "RelativeDocumentMoniker": "A2Q1\\Program.cs",
+              "ToolTip": "D:\\My-gitdata\\MS.NET\\Assignment\\A2Q1\\Program.cs",
+              "RelativeToolTip": "A2Q1\\Program.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAgwIEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:07:03.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My-gitdata\\MS.NET\\Assignment\\A1Q3\\Program.cs",
+              "RelativeDocumentMoniker": "A1Q3\\Program.cs",
+              "ToolTip": "D:\\My-gitdata\\MS.NET\\Assignment\\A1Q3\\Program.cs",
+              "RelativeToolTip": "A1Q3\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:48:30.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My-gitdata\\MS.NET\\Assignment\\A1Q2\\Program.cs",
+              "RelativeDocumentMoniker": "A1Q2\\Program.cs",
+              "ToolTip": "D:\\My-gitdata\\MS.NET\\Assignment\\A1Q2\\Program.cs",
+              "RelativeToolTip": "A1Q2\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwBAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:12:54.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My-gitdata\\MS.NET\\Assignment\\Q1\\Program.cs",
+              "RelativeDocumentMoniker": "Q1\\Program.cs",
+              "ToolTip": "D:\\My-gitdata\\MS.NET\\Assignment\\Q1\\Program.cs",
+              "RelativeToolTip": "Q1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:08:49.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
